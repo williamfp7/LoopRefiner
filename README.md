@@ -42,7 +42,7 @@ LoopRefinement uses the JSON (https://metacpan.org/pod/JSON) and Async (https://
 Please install before you run the system.
 
 ### Running Looprefiner
-´´´bash
+<pre>
 # Clone this repo
 $ git clone git@github.com:williamfp7/LoopRefiner.git
 
@@ -54,7 +54,7 @@ $ vi main.pl
 
 # Run the system
 $ perl main.pl
-´´´
+</pre>
 # Author
 This system was written by William Farias Porto.
 # License
