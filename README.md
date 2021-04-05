@@ -58,3 +58,4 @@ $ perl main.pl
 # Author
 This system was written by William Farias Porto.
 # License
+This project is under license [GPL v3](./LICENSE)
