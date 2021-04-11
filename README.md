@@ -47,7 +47,7 @@ Please install before you run the system.
 $ git clone https://github.com/williamfp7/LoopRefiner.git
 
 # Access the system folder on terminal
-cd LoopRefiner
+$ cd LoopRefiner
 
 # Edit the main.pl file
 $ nano main.pl
