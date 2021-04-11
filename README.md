@@ -44,7 +44,7 @@ Please install before you run the system.
 ### Running Looprefiner
 <pre>
 # Clone this repo
-$ git clone git@github.com:williamfp7/LoopRefiner.git
+$ git clone https://github.com/williamfp7/LoopRefiner.git
 
 # Access the system folder on terminal
 cd LoopRefiner
