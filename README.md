@@ -50,7 +50,7 @@ $ git clone https://github.com/williamfp7/LoopRefiner.git
 cd LoopRefiner
 
 # Edit the main.pl file
-$ vi main.pl
+$ nano main.pl
 
 # Run the system
 $ perl main.pl
