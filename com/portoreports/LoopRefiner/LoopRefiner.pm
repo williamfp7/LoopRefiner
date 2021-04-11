@@ -260,7 +260,7 @@ sub compare{
             print "\n\nnew best score: ".$_->getScore."\n\n\n";
             
             $self->getFileManager->rename($self->getModel->getModel(),$self->getPrefix().$self->getIteration().".pdb");
-            $self->getModel->setModel("i".$self->getIteration().".pdb");
+            $self->getModel->setModel($self->getPrefix().$self->getIteration().".pdb");
             sleep 5;
         }
         if($notImproved==scalar(@{$self->getModel->getResidues})){
